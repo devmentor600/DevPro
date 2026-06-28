@@ -1,0 +1,6 @@
+{
+  "name": "DevForge",
+  "description": "Universal Programming Academy - A comprehensive, offline-first developer academy for mastering any programming language and paradigm with interactive lessons, quizzes, an encyclopedia of 150+ languages, and an AI-powered interview recruiter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
